@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = robertmorel7373@gmail.com
+	name = robert morel
